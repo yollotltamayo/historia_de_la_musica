@@ -1,0 +1,54 @@
+
+{
+	"timeline":
+	{
+		"headline":"Corrientes estético musicales del siglo IV al siglo XVII",
+		"type":"default",
+		"text":"<p>Fernando Yollotl Tamayo Hernandez CNM</p>",
+		"asset": {
+			"media":"https://c8.alamy.com/comp/2H3G945/woman-playing-the-harpsichord-accompanied-by-the-violin-17th-century-music-2H3G945.jpg",
+			"credit":"",
+			"caption":""
+		},
+		"date": [
+			{
+				"startDate":"301",
+				"endDate":"",
+				"headline":"<h1>Siglo IV</h1> <h3>Reconocimiento oficial del cristianismo</h3>",
+				"text":"<p>Abandono de las prácticas secretas y establecimiento de reuniones públicas en basílicas canto de plegarias y escrituras que fueran entonadas.</p>",
+				"classname":"optionaluniqueclassnamecanbeaddedhere",
+				"asset": {
+					"media":"",
+					"thumbnail":"",
+					"credit":"Credit Name Goes Here",
+					"caption":"Caption text goes here"
+				}
+			},
+			{
+				"startDate":"313",
+				"endDate":"",
+				"headline":"Edicto de Milán",
+
+				"text":"<p>En 313 el emperador Constantino promulgó el Edicto de Milán, que concedía a los cristianos la libertad de ejercer su culto.</p>",
+                "tag":"Acontecimiento",
+				"classname":"acontecimiento",
+				"asset": {
+					"media":"https://time.graphics/uploadedFiles/500/b8/e5/b8e59491185b5472edaf659f398dd4a4.jpg",
+					"thumbnail":"",
+					"credit":"",
+					"caption":""
+				}
+			},
+		],
+		"era": [
+			{
+				"startDate":"300,01,01",
+				"endDate":"399,01,01",
+				"headline":"Siglo IV",
+				"text":"Reconocimiento oficial del cristianismo",
+				"tag":"Siglo IV"
+			}
+
+		]
+	}
+}

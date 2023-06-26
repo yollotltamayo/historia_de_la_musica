@@ -1,0 +1,7 @@
+.acontecimiento > .slide-tag {
+    background: rgba(255, 255, 0, 0.3);
+}
+
+.timenav-tag > *{
+    color: black !important;
+}

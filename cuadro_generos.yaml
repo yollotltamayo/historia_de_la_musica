@@ -1,0 +1,349 @@
+---
+timeline:
+  headline: 'Corrientes estético musicales del siglo IV al siglo XVII'
+  type : 'default'
+  text : '<p>Fernando Yollotl Tamayo Hernandez CNM</p>'
+  asset : 
+    media : 'https://c8.alamy.com/comp/2H3G945/woman-playing-the-harpsichord-accompanied-by-the-violin-17th-century-music-2H3G945.jpg'
+  date : 
+    - startDate : '301'
+      endDate : ''
+      headline : 'Siglo IV Reconocimiento oficial del cristianismo'
+      text : '<p>Abandono de las prácticas secretas y establecimiento de reuniones públicas en basílicas canto de plegarias y escrituras que fueran entonadas.</p>'
+      classname : ''
+      asset :
+        media : ''
+        thumbnail : ''
+        credit : ''
+        caption : ''
+    - startDate : "313"
+      endDate : ""
+      headline : "Edicto de Milán"
+      text : "<p>En 313 el emperador Constantino promulgó el Edicto de Milán, que concedía a los cristianos la libertad de ejercer su culto.</p>"
+      tag : "Acontecimiento"
+      classname : "acontecimiento"
+      asset :
+        media : "https://time.graphics/uploadedFiles/500/b8/e5/b8e59491185b5472edaf659f398dd4a4.jpg"
+    # Litrugia
+    - startDate : "317"
+      headline : "Liturgia"
+      tag : "Genero Vocal"
+      classname : "vocal"
+      text : |
+        Liturgia: orden y forma con que se llevan a cabo las ceremonias del culto en las distintas religiones.
+        <br/>
+        La salmodia es una técnica de canto específica para los salmos que desde la antigüedad se ha practicado en la tradición judía de la sinagoga y posteriormente los primeros cristianos empezaron a incluirla en la liturgia cristiana. Posteriormente se aplicó esta fórmula a otros textos bíblicos.
+        Se pueden agrupar en tres tipos:
+        <ol> 
+          <li>Salmodia directa (recta): el salmo completo se canta continuamente. Todos los versos recitados son originales, sin adición de nuevos textos.</li>
+          <li> Salmodia antifonal: dos coros cantan alternadamente el mismo salmo (lo repiten). El primer coro canta el salmo original, y a continuación el segundo un verso nuevo, antífona, antes, entre o después del salmo original.</li>
+          <li> Salmodia responsorial: el celebrante recita cada verso del salmo que es respondido por la asamblea o el coro.</li>
+        </ol>
+    # Rito bizantino
+    - startDate : "350"
+      endDate : ""
+      tag : "Genero Vocal"
+      classname : "vocal"
+      asset :
+        media : "https://time.graphics/uploadedFiles/500/b8/e5/b8e59491185b5472edaf659f398dd4a4.jpg"
+      headline: "Canto para el rito Bizantino"
+      text: |
+        Utilización de una nota pedal Ison
+        Se derivan las siguientes liturgias del canto Bizantino :
+        <ol>
+          <li> Liturgia griega </li>
+          <li> Liturgia eslava </li>
+          <li> Liturgia rusa </li>
+          <li> Liturgia ucraniana </li>
+          <li> Liturgia búlgara </li>
+          <li> Liturgia serbia </li>
+        </ol>
+      asset:
+        media : "https://www.youtube.com/watch?time_continue=16&v=W4fKPK6-Y4c&feature=emb_logo"
+
+    - startDate : '401,01,01'
+      headline : "Siglo V : Disintos ritos liturgicos"
+      text : "Disintos ritos liturgicos"
+    - startDate : "402"
+      endDate : ""
+      tag : "Genero Vocal"
+      classname : "vocal"
+      headline: "Canto para el rito Hispano o Mozárabe"
+      text: |
+        En el siglo V, los visigodos, que eran cristianos, se establecieron en la provincia romana de Hispania (en la península ibérica); 
+        tres siglos después, los moros del norte de África cruzaron el estrecho de Gibraltar y dominaron gran parte de la península. Los moros toleraban a la población cristiana, 
+        libre de seguir sus ritos a cambio de impuestos más altos. 
+        Estos cristianos que vivían entre los musulmanes se llamaban mozárabes y su liturgia es el rito mozárabe.
+        <br/>
+        En este ejemplo, un coro responde al solista, interpretación (salmodia) RESPONSORIAL 
+      asset:
+        media: "https://www.youtube.com/watch?v=5jbmCF3PpbY&list=PL9xRufHyAi9tfczoccPVzcEKjK_qjfPdK"
+
+    - startDate : "420"
+      endDate : ""
+      tag : "Genero Vocal"
+      classname : "vocal"
+      headline : Canto para el rito Galiciano
+      text : |
+        Esta liturgia era la vigente en la provincia romana de la Galia (hoy Francia, parte de Alemania, Bélgica y Suiza). 
+        Ahí llegaron los francos y establecieron un reino que fue el de mayor extensión en la Edad Media. 
+        Uno de los gobernantes más sobresalientes de este reino fue Carlomagno, quien reinó de 768 a 814. 
+        En el año 800 se declaró emperador de los romanos, título reservado a los emperadores del imperio bizantino, lo cual causó protestas inmediatas de Oriente. 
+        El imperio creado por Carlomagno sentó las bases del Sacro Imperio romano-germánico posterior.
+        <br/>
+        En la época de Carlomagno seguía en uso la liturgia galicana, 
+        y es precisamente durante su reinado que sucede la síntesis de este rito con la liturgia romana, cuyo resultado es lo que hoy llamamos canto gregoriano.
+      asset:
+        media: "https://www.youtube.com/watch?v=S08SIkWldSU&list=PLSbHTZkaXc8xyEdHbwTO4m-VpfwAp_O65"
+    - startDate : "460"
+      tag : "Genero Vocal"
+      classname : "vocal"
+      headline : Canto para el rito Ambrosiano
+      text : |
+        Lleva el nombre de san Ambrosio. Se desarrolló en Milán y la tradición adjudica a 
+        san Ambrosio su creación, pero el repertorio que se tiene de este rito es posterior (siglo XII) a él.
+        <br/>
+        En este ejemplo, un coro de niños responde a un coro de mujeres, interpretación (salmodia) ANTIFONAL del canto.
+      asset:
+        media: "https://www.youtube.com/watch?v=QfGb5Gkd4KI&ab_channel=ScholaGregoriana-Topic"
+    - startDate: "476"
+      tag : "Acontecimiento"
+      classname : "acontecimiento"
+      headline : "Imperio romano de Occidente"
+      text: "El último emperador del Imperio romano de Occidente, Rómulo Augústulo, es depuesto por Odoacro, rey de los hérulos, alzándose como rey de Italia; desapareciendo oficialmente el imperio occidental."
+      asset:
+        media: "https://historia-biografia.com/wp-content/uploads/2021/02/agustulo.jpg"
+    - startDate : "480"
+      tag : "Genero Vocal"
+      classname : "vocal"
+      headline : Canto para el rito Beneventano
+      text : |
+        <p>Había muchas otras liturgias en uso en Europa, como la de Ravena y de Benevento, consecuencia natural de la dificultad de comunicaciones en la Edad Media 
+        y el hecho de que no existía una notación musical. 
+        <br/>
+        Si se considera que la enorme cantidad de cantos con sus textos que cubrían el año eclesiástico 
+        dependían de la memoria de quienes los cantaban y de una transmisión oral, es fácil entender las variantes 
+        del rito entre diferentes zonas geográficas a pesar de la intención de unificación. 
+        Además de las mencionadas arriba, había muchas más liturgias y también muchas variantes dentro de un mismo rito.
+        <br/>
+        El Imperio bizantino tenía su propia liturgia de acuerdo con el rito griego: el canto bizantino. 
+        En la Iglesia ortodoxa griega, el canto bizantino ha continuado en uso hasta la actualidad, 
+        mientras que el canto gregoriano se dejó de utilizar en el siglo XX, después del Concilio Vaticano II, cuando dejó de ser cantada la liturgia en Occidente.
+        <br/>
+        <em>En este ejemplo no existen respuestas, interpretación RECTA del canto.</em></p>
+      asset:
+        media: "https://www.youtube.com/watch?v=ji8klhW4Pdo"
+    - startDate : "541"
+      headline: "La peste negra"
+      tag: Acontecimiento
+      text: La peste negra azota Constantinopla y casi la totalidad del Imperio bizantino.
+      asset:
+        media: "https://static.dw.com/image/53604811_804.jpg"
+
+    - startDate : "701"
+      tag : "Genero Vocal"
+      classname : "vocal"
+      headline : Canto Gregoriano
+      text : |
+        En la época de Carlomagno seguía en uso la liturgia galicana, y es precisamente durante su reinado que sucede la síntesis de este rito con la liturgia romana, cuyo resultado es lo que hoy llamamos canto gregoriano.
+        <br/>
+        El canto gregoriano se refiere en general a un tipo de canto llano, simple, monódico y con una música supeditada al texto utilizado en la liturgia de la Iglesia católica, aunque en ocasiones se usa en un sentido amplio o incluso como un sinónimo de canto llano.
+        <br/>
+        El canto gregoriano se refiere en general a un tipo de canto llano, simple, monódico y con una música supeditada al texto utilizado en la liturgia de la Iglesia católica, aunque en ocasiones se usa en un sentido amplio o incluso como un sinónimo de canto llano.
+        <br/>
+      asset:
+        media: "https://curiosfera-historia.com/wp-content/uploads/Canto-gregoriano.jpg"
+
+    - startDate : "710"
+      tag : "Genero Vocal"
+      classname : "vocal"
+      headline : Tipos de Canto Gregoriano
+      text : |
+        <ol>
+          <li> <strong>Silábicos </strong>: se refiere a la relación de una nota por silaba en el texto.</li>
+          <li> <strong> Melismáticos </strong>: En el aleluya, hay pasajes largos donde una sola sílaba del texto se canta sobre muchas notas. Esto se llama melisma, y cuando en una pieza se encuentran varios pasajes de una sola sílaba por muchas notas, se dice que la pieza es melismática.</li>
+          <li> <strong> Neumáticos </strong>: Se refiere a la relación de muchas notas por sílaba.</li>
+        <ol>
+      asset:
+        media: "https://www.youtube.com/watch?v=koeju4eClSM"
+    - startDate : "730"
+      tag : "Genero Vocal"
+      classname : "vocal"
+      headline : Tropos
+      text: |
+        Un tropo era una manera de ornamentar el canto; esta palabra viene del griego tropos (en latín tropus), que significa “elaborar”, “extender”, 
+        “embellecer un texto mediante una figura del lenguaje”. 
+        En música, tropar significaba añadir una parte nueva a un canto. 
+        Esta manera de ornamentar los cantos, que de alguna manera respetaba la melodía del canto original, se volvió muy común.
+        <br/>
+        El nacimiento del tropo dio lugar al nacimiento de dos géneros importantes de la música medieval al interior de la iglesia.
+        <br/>
+      asset:
+        media: "tropos.png" 
+    - startDate : "740"
+      tag : "Genero Vocal"
+      classname : "vocal"
+      headline : La Secuencia
+      text: |
+        Comenzaron siendo prosulas. Los cantores agregaban textos a los melismas del Aleluya para aprenderlos. Con el tiempo, las secuencias pasaron a ser una parte de la misa que se cantaba después del Aleluya. Una de las secuencias más importante conocida es el "Diesirae".
+      asset:
+        media: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Secuencia_Lauda_Sion_pergamino.png/800px-Secuencia_Lauda_Sion_pergamino.png"
+        caption: "https://es.wikipedia.org/wiki/Archivo:Victimae_Paschali_Laudes.ogg"
+    - startDate : "760"
+      tag : "Genero Vocal"
+      classname : "vocal"
+      headline : El Drama litúrgico
+      text: |
+        Algunos tropos tomaron forma de diálogos y llegaron a ser tan elaborados que se conocieron como "Dramas litúrgicos", si bien, no formaban parte de la liturgia,estaban vinculados a ella y quedaron recogidos en los libros.
+      asset:
+        media: "https://hispanamusica.files.wordpress.com/2016/04/la-divina-liturgia.jpg?w=1200"
+    - startDate : "770"
+      headline :  Misa
+      tag : "Genero Vocal"
+      classname : "vocal"
+      text: |
+        <p>Por un lado, ya para el siglo IX, la misa era el servicio principal de la Iglesia cristiana. 
+        Tenía una parte más antigua derivada del rito judío y una segunda parte, llamada eucaristía , 
+        que recreaba la última cena. Ya en tiempos de Carlomagno, la misa tenía una estructura muy parecida a la misa de hoy en día. 
+        <br/>
+        Hay dos tipos de Misa :
+        <ol>  
+          <li><strong>Ordinario / Común </strong> :son textos que no cambian</li>
+          <li> <strong>Propio:</strong>
+            <ol>
+              <li>1. Introito, canto que acompaña al celebrante, tiene 3 secciones: Antífona - Salmo -Antífona (Salmodia, Antifonal).</li>
+              <li>2. Kyrie. Mismo texto todas los días (Griego) </li>
+              <li>3. Gloria: sólo Domingos y fiestas.  </li>
+              <li>4. Gradual: Para el solista, se cantaba en el alta </li>
+              <li>5. Alleluia </li>
+              <li>6. Credo </li>
+              <li>7. Ofertorio </li>
+              <li>8. Santus -Sanctus y Benedictus, después de la elevación del cáliz </li>
+              <li>9. Agnus Dei </li>
+              <li>10. Comunión </li>
+              <li>11. Ite missa est </li>
+            </ol>
+          </ol></p>
+      asset:
+        media: 'misa.png'
+        caption: 'Pieza monódica (a una voz), en latín, sin estructura rítmica definida, con una melodía que se mueve por grado conjunto (por intervalos de tono o semitono) y también por intervalos grandes, con un ámbito amplio (sube y baja mucho). '
+    - startDate : "1141"
+      endDate: "1152"
+      headline: Hildegard von Bingen (1089- 1179)
+      tag: Acontecimiento
+      classname : 'acontecimiento'
+      text: |
+        <strong>Scivias </strong> (también conocida como sigue los caminos ) es el título de la obra más importante de Hildegarda, visionaria, teóloga medieval y abadesa  escrito entre 1141 y 1152. Es un libro que explica muchos de los principales dogmas de la fe católica a través de la explicación de las visiones tenidas por la abadesa, expuestas a través de ricas y coloridas ilustraciones de las mismas con gran simbología. El libro se describe por medio de una sinfonía.
+        <br/>
+        <strong>Sinfonía</strong>: del griego "que suenan juntos" en la época medieval tienen mucho significado.
+      asset:
+        media: https://www.youtube.com/watch?v=a9Zz9GX-ano&ab_channel=JourneytotheLoveandWisdombySpiritandMeditationWay
+
+    - startDate : '801'
+      endDate : ''
+      headline : 'Siglo IX Inicios de la polifonía'
+      text : ''
+      classname : ''
+      asset :
+        media: poli.png
+    - startDate : '850'
+      headline: Organum
+      text: |
+        En la Edad Media, el primer tipo de polifonía se llamó organum (el plural es organa), 
+        consista en la superposición de una voz a alguna pieza del repertorio ya establecido. 
+        <br/> 
+        La fuente más antigua sobre polifonía es <em>Musica enchiriadis</em> (Manual de música), junto con <em>Scolica enchiriadis</em> (Manual de extractos), dos tratados de la segunda mitad del siglo IX. Ambos describen dos tipos de polifonía.
+     
+      asset:
+        media: http://132.248.48.64/repositorio/moodle/pluginfile.php/1879/mod_resource/content/7/contenido/images/rex_u1t4.png
+    - startDate: '870'
+      headline : Organum Paralelo
+      text: En el organum paralelo, se canta una voz nueva a un intervalo fijo del canto gregoriano 
+        utilizando los intervalos de cuarta, quinta u octava.  
+        Sobre cada nota del canto original se canta una nota de la voz nueva. 
+        La voz que lleva el canto original se llama vox principalis y la voz nueva vox organalis.
+      asset:
+        media: http://132.248.48.64/repositorio/moodle/pluginfile.php/1879/mod_resource/content/7/contenido/images/organum1.png
+        caption: Organum paralelo a la quinta de Scholia enchiriadis
+    - startDate: '890'
+      headline : Organum Paralelo Modificado
+      text: En el organum paralelo modificado (el término es moderno), que también describe Musica enchiriadis, es más sofisticado al implicar movimiento oblicuo y contrario de las voces.
+        <br/>
+        Se mantiene a intervalo de cuarta y luego regresa al unísono al final de la frase. Este procedimiento se sigue en cada frase.
+      tag: 'Genero Vocal'
+      classname: vocal
+      asset:
+        media: organum.png
+
+    - startDate : '1160'
+      headline : Conductus 
+      tag: 'Genero Vocal'
+      classname: vocal
+      text: El texto es entre silábico y neumático, todas las voces tienen el mismo texto y las sílabas generalmente cambian al mismo tiempo en todas las voces, se basa en textos poéticos en latín, la mayoría son monódicos pero existen también a dos, tres y cuatro voces. Floreció entre el año 1160 y 1240
+      asset:
+        media: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Conductus_monofonico_Beata_viscera.png/1300px-Conductus_monofonico_Beata_viscera.png"
+        #
+        ## Siglo X - XII
+        ### Trovadores 
+        #
+        #Los trovadores fueron músicos-poetas del sur de lo que hoy es Francia, y produjeron uno de los repertorios monódicos más importantes de la Edad Media. Sus canciones son de temas muy diversos, de los cuales la cansó —canción de amor imposible a la dama inalcanzable— es quizá la más famosa.
+        #
+        #Sus poemas están escritos en occitano ( el lenguaje del sur de Francia), al norte de Francia estaban los troveros ( trouveres )que escribían sus versos en francés, los troveros de la península ibérica escribian sus cantigas en gallego-portugués, tambien se les conoce como los minnesinger en los países alemanes y los trovatori en la península italiana.
+        #
+        ## Genero : Canso
+        #Se llama cansó al poema que trata de amor cortés, uno de los géneros literarios más utilizados por los trovadores; sin embargo, no todos los poemas son de amor cortés. El alba es la separación de dos amantes al salir el sol, el sirventés es una sátira moral o política, la tensó es un debate entre dos o más personajes y en la pastorela un caballero intenta seducir a una pastora. 
+        #
+        ## Genero : Cantigas
+        #La cantiga es un poema amoroso siempre en voz de mujer que añora el regreso de su amado, son piezas monódicas y estróficas con un pequeño estribillo. El texto está en gallego-portugués con acomodo más bien neumático y no hay indicaciones rítmicas. También estas las cantigas a santa Maria, exclusivamente tratan sobre un amor cortes hacia María la virgen. 
+        #
+        ## Fecha
+        #La cansó Can vei la lauzeta mover, de uno de los más famosos trovadores, Bernart de Ventadorn (cerca de 1135), el canso trata sobre una amante que lamenta no ser correspondido en su amor por su dama, aunque se da cuenta de que la dama siempre estuvo fuera de su alcance
+        #
+        #
+        ### Genero: Organum Florido de Aquitania
+        #Nace en el siglo XII, algunos ejemplos se conservan en la catedral de santiago de Compostela y en tres manuscritos del sur de Francia (Región conocida como Aquitania) 
+        #Voz inferior - se queda tenida y da sostén a la voz superior
+        #Aquí nació el término tenor, del latín "tenere", sostener la palabra tenor" se usó para nombrar a la voz más grave en una composición hasta el siglo XV.
+        #
+        ### Escuela de Notre Dame y variaciones al Organum original
+        #
+        ### Polifonía de la Escuela de Notre Dame
+        #En el siglo XII, París (en el norte de Francia) se convirtió en un centro musical de importancia siendo esta incubadora de varias innovaciones musicales. Estas innovaciones se centraron en los compositores de la nueva Catedral de Notre Dame. El siglo XII es el momento de las primeras catedrales góticas, posibles por descubrimientos en ingeniería que harían factible la construcción de grandes edificios.  
+        #
+        #De esta catedral surgieron compositores Leonin y Perotín
+        #
+        ### Fecha
+        #
+        #Navidad de 1198. Viderunt Omnes primera pieza escrita a 4 voces cuyo compositor conocemos. Con la composición de esta pieza da comienzo el periodo conocido como Ars Antiqua.
+        ## Era : Ars antiqua
+        #
+  era : 
+    - startDate : '301,01,01'
+      endDate : "400,31,12"
+      headline : "Siglo IV"
+      text : "Reconocimiento oficial del cristianismo"
+      tag : "Siglo IV"
+
+    - startDate : '401,01,01'
+      endDate : "500,31,12"
+      headline : "Siglo V"
+      text : "Disintos ritos liturgicos"
+      tag : "Siglo V"
+
+    - startDate : '701,01,01'
+      endDate : "800,31,12"
+      headline : "Siglo VIII"
+      text : "Canto Gregoriano"
+      tag : "Siglo VII"
+
+    - startDate : '801,01,01'
+      endDate : "900,31,12"
+      headline : "Siglo IX"
+      text : "Primera Polifonía"
+      tag : "Siglo IX"
+
+    - startDate : '901,01,01'
+      endDate : "1100,31,12"
+      headline : "Siglo X a siglo XI"
+      text : "Trovadores y la escuela de Notre Dame"
+      tag : "Siglo X a siglo XI"
