@@ -62,8 +62,8 @@ timeline:
         media : "https://www.youtube.com/watch?time_continue=16&v=W4fKPK6-Y4c&feature=emb_logo"
 
     - startDate : '401,01,01'
-      headline : "Siglo V : Disintos ritos liturgicos"
-      text : "Disintos ritos liturgicos"
+      headline : "Siglo V : Distintos ritos liturgicos"
+      text : "Distintos ritos liturgicos"
     - startDate : "402"
       endDate : ""
       tag : "Genero Vocal"
@@ -148,9 +148,6 @@ timeline:
         En la época de Carlomagno seguía en uso la liturgia galicana, y es precisamente durante su reinado que sucede la síntesis de este rito con la liturgia romana, cuyo resultado es lo que hoy llamamos canto gregoriano.
         <br/>
         El canto gregoriano se refiere en general a un tipo de canto llano, simple, monódico y con una música supeditada al texto utilizado en la liturgia de la Iglesia católica, aunque en ocasiones se usa en un sentido amplio o incluso como un sinónimo de canto llano.
-        <br/>
-        El canto gregoriano se refiere en general a un tipo de canto llano, simple, monódico y con una música supeditada al texto utilizado en la liturgia de la Iglesia católica, aunque en ocasiones se usa en un sentido amplio o incluso como un sinónimo de canto llano.
-        <br/>
       asset:
         media: "https://curiosfera-historia.com/wp-content/uploads/Canto-gregoriano.jpg"
 
@@ -256,7 +253,7 @@ timeline:
         La fuente más antigua sobre polifonía es <em>Musica enchiriadis</em> (Manual de música), junto con <em>Scolica enchiriadis</em> (Manual de extractos), dos tratados de la segunda mitad del siglo IX. Ambos describen dos tipos de polifonía.
      
       asset:
-        media: http://132.248.48.64/repositorio/moodle/pluginfile.php/1879/mod_resource/content/7/contenido/images/rex_u1t4.png
+        media: orga.png
     - startDate: '870'
       headline : Organum Paralelo
       tag: 'Genero Vocal'
@@ -265,7 +262,7 @@ timeline:
         Sobre cada nota del canto original se canta una nota de la voz nueva. 
         La voz que lleva el canto original se llama vox principalis y la voz nueva vox organalis.
       asset:
-        media: http://132.248.48.64/repositorio/moodle/pluginfile.php/1879/mod_resource/content/7/contenido/images/organum1.png
+        media: org_par.png
         caption: Organum paralelo a la quinta de Scholia enchiriadis
     - startDate: '890'
       headline : Organum Paralelo Modificado
@@ -342,20 +339,6 @@ timeline:
         A este le siguen otros periodos de la historia de la música medieval denominados ars nova y ars subtilior.
       asset: 
         media: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Cath%C3%A9drale_Notre-Dame_de_Paris_-_Fa%C3%A7ade_Sud.jpg/500px-Cath%C3%A9drale_Notre-Dame_de_Paris_-_Fa%C3%A7ade_Sud.jpg'
-    - startDate : '1170'
-      tag: Genero Vocal
-      headline: Escuela de Notre Dame
-      text: |
-        En el siglo XII, París (en el norte de Francia) se convirtió en un centro musical de importancia siendo esta 
-        incubadora de varias innovaciones musicales. Estas innovaciones se centraron en los 
-        compositores de la nueva Catedral de Notre Dame. 
-        <br/>
-        El siglo XII es el momento de las primeras catedrales góticas, posibles por descubrimientos en ingeniería que harían factible la construcción de grandes edificios.  
-        <br/>
-        De esta catedral surgieron compositores como Leonin y Perotín.
-      asset: 
-        media: 'https://www.civitatis.com/f/francia/paris/guia/catedral-notre-dame-m.jpg'
-        #
     - startDate : '1198'
       headline: 'Viderunt Omnes'
       tag: 'Acontecimiento'
@@ -667,6 +650,38 @@ timeline:
         Tocata, Preludio, Fantasía, Tiento.
       asset:
         media: 'https://www.youtube.com/watch?v=r0b8Ze4UfOI&ab_channel=huakinthoi'
+      ######################################
+    - startDate: '1431'
+      tag: 'Acontecimiento'
+      headline: Juana de Arco
+      text: 'Juana de Arco es quemada en la Hoguera'
+      asset:
+        media: 'https://historia.nationalgeographic.com.es/medio/2018/02/28/juana-de-arco__1280x1651.JPG'
+
+    - startDate: '1450'
+      tag: 'Acontecimiento'
+      headline: La imprenta
+      text: |
+        Gutenberg inventa la imprenta de tipos móviles
+      asset:
+        media: 'imprenta.jpg'
+
+    - startDate: '1453'
+      tag: 'Acontecimiento'
+      headline: Fin de la guerra de los 100 años
+      text: |
+        Fin de la guerra de los 100 años y fin del imperio Bizantino
+      asset:
+        media: 'https://historia.nationalgeographic.com.es/medio/2019/10/19/batalla-de-crecy-1346_30905d4d_1280x1124.jpg'
+
+    - startDate: '1453,12,10'
+      tag: 'Acontecimiento'
+      headline: Desembarco de Colón
+      text: |
+        Cristóbal Colón desembarca en las Bahamas el 12 de octubre de 1492
+      asset:
+        media: 'https://content3.cdnprado.net/imagenes/Documentos/imgsem/fe/fe9c/fe9c76e5-eae5-4586-9adb-83b8c92cbdce/be71dff8-66f4-421e-a534-4606c428fe7f.jpg'
+
   era : 
     - startDate : '301,01,01'
       endDate : "400,31,12"
