@@ -62,8 +62,8 @@ timeline:
         media : "https://www.youtube.com/watch?time_continue=16&v=W4fKPK6-Y4c&feature=emb_logo"
 
     - startDate : '401,01,01'
-      headline : "Siglo V : Distintos ritos liturgicos"
-      text : "Distintos ritos liturgicos"
+      headline : "Siglo V : Distintos ritos litúrgicos"
+      text : "Distintos ritos litúrgicos"
     - startDate : "402"
       endDate : ""
       tag : "Genero Vocal"
@@ -692,7 +692,7 @@ timeline:
     - startDate : '401,01,01'
       endDate : "500,31,12"
       headline : "Siglo V"
-      text : "Distintos ritos liturgicos"
+      text : "Distintos ritos litúrgicos"
       tag : "Siglo V"
 
     - startDate : '701,01,01'
