@@ -248,6 +248,7 @@ timeline:
         media: poli.png
     - startDate : '850'
       headline: Organum
+      tag: Genero Vocal
       text: |
         En la Edad Media, el primer tipo de polifonía se llamó organum (el plural es organa), 
         consista en la superposición de una voz a alguna pieza del repertorio ya establecido. 
@@ -258,6 +259,7 @@ timeline:
         media: http://132.248.48.64/repositorio/moodle/pluginfile.php/1879/mod_resource/content/7/contenido/images/rex_u1t4.png
     - startDate: '870'
       headline : Organum Paralelo
+      tag: 'Genero Vocal'
       text: En el organum paralelo, se canta una voz nueva a un intervalo fijo del canto gregoriano 
         utilizando los intervalos de cuarta, quinta u octava.  
         Sobre cada nota del canto original se canta una nota de la voz nueva. 
@@ -275,6 +277,7 @@ timeline:
       asset:
         media: organum.png
 
+
     - startDate : '1160'
       headline : Conductus 
       tag: 'Genero Vocal'
@@ -282,41 +285,388 @@ timeline:
       text: El texto es entre silábico y neumático, todas las voces tienen el mismo texto y las sílabas generalmente cambian al mismo tiempo en todas las voces, se basa en textos poéticos en latín, la mayoría son monódicos pero existen también a dos, tres y cuatro voces. Floreció entre el año 1160 y 1240
       asset:
         media: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Conductus_monofonico_Beata_viscera.png/1300px-Conductus_monofonico_Beata_viscera.png"
+    - startDate: '1110'
+      headline: Trovadores 
+      text: |
+        Los trovadores fueron músicos-poetas del sur de lo que hoy es Francia, y produjeron uno de los repertorios monódicos más importantes de la Edad Media. Sus canciones son de temas muy diversos, de los cuales la cansó —canción de amor imposible a la dama inalcanzable— es quizá la más famosa.
+        <br/>
+        Sus poemas están escritos en occitano ( el lenguaje del sur de Francia), al norte de Francia estaban los troveros ( trouveres )que escribían sus versos en francés, los troveros de la península ibérica escribian sus cantigas en gallego-portugués, tambien se les conoce como los minnesinger en los países alemanes y los trovatori en la península italiana.
+      tag: Genero Vocal
+      classname: vocal
+      asset:
+        media: 'https://www.youtube.com/watch?v=vs9FnLucL88&list=RDvs9FnLucL88&start_radio=1'
+
+    - startDate: '1120'
+      headline: Canso
+      tag: Genero Vocal
+      classname: vocal
+      text: |
+        Se llama cansó al poema que trata de amor cortés, uno de los géneros literarios más utilizados por los trovadores; sin embargo, no todos los poemas son de amor cortés. El alba es la separación de dos amantes al salir el sol, el sirventés es una sátira moral o política, la tensó es un debate entre dos o más personajes y en la pastorela un caballero intenta seducir a una pastora. 
+      asset:
+        media: "https://www.youtube.com/watch?v=kFE41w4hX_s"
+        caption: "Le Jeu de Robin et Marion”, primera pastorela conservada de la historia. Escrita por Adam de la Halle entre 1282 y 1283."
+
+    - startDate: '1135'
+      headline: Can vei la lauzeta mover
+      tag: 'Acontecimiento'
+      text: |
+        La cansó Can vei la lauzeta mover, de uno de los más famosos trovadores, 
+        Bernart de Ventadorn (cerca de 1135), el canso trata sobre una amante que lamenta no ser correspondido en su 
+        amor por su dama, aunque se da cuenta de que la dama siempre estuvo fuera de su alcance
+      asset :
+        media : 'https://www.youtube.com/watch?v=jkp2GHBRUiQ'
+
+    - startDate : '1150'
+      headline: Cantigas
+      tag: 'Genero Vocal'
+      text: |
+        La cantiga es un poema amoroso siempre en voz de mujer que añora el regreso de su amado, son piezas monódicas y estróficas con un pequeño estribillo. El texto está en gallego-portugués con acomodo más bien neumático y no hay indicaciones rítmicas. También estas las cantigas a santa Maria, exclusivamente tratan sobre un amor cortes hacia María la virgen. 
+      asset:
+        media: 'https://www.youtube.com/watch?v=XgjZxQLiv7k'
+        caption: 'Cantigas a santa María'
+
+    - startDate: '1160'
+      headline: Organum Florido de Aquitania
+      tag: 'Genero Vocal'
+      text: |
+        Nace en el siglo XII, algunos ejemplos se conservan en la catedral de santiago de Compostela y en tres manuscritos del sur de Francia (Región conocida como Aquitania) 
+        Voz inferior - se queda tenida y da sostén a la voz superior
+        Aquí nació el término tenor, del latín "tenere", sostener la palabra tenor" se usó para nombrar a la voz más grave en una composición hasta el siglo XV.
+      asset:
+        media: 'florido.png'
+    - startDate: '1170' 
+      headline: 'Ars Antiqua'
+      text: |
+        Ars antiqua, también llamado Ars veterum o Ars vetus, se refiere a la música de Europa de finales de la Edad Media aproximadamente entre 1170 y 1310, que abarca 
+        el período de la Escuela de Notre Dame de polifonía y los años posteriores. Comprende los siglos XII y XIII. 
+        A este le siguen otros periodos de la historia de la música medieval denominados ars nova y ars subtilior.
+      asset: 
+        media: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Cath%C3%A9drale_Notre-Dame_de_Paris_-_Fa%C3%A7ade_Sud.jpg/500px-Cath%C3%A9drale_Notre-Dame_de_Paris_-_Fa%C3%A7ade_Sud.jpg'
+    - startDate : '1170'
+      tag: Genero Vocal
+      headline: Escuela de Notre Dame
+      text: |
+        En el siglo XII, París (en el norte de Francia) se convirtió en un centro musical de importancia siendo esta 
+        incubadora de varias innovaciones musicales. Estas innovaciones se centraron en los 
+        compositores de la nueva Catedral de Notre Dame. 
+        <br/>
+        El siglo XII es el momento de las primeras catedrales góticas, posibles por descubrimientos en ingeniería que harían factible la construcción de grandes edificios.  
+        <br/>
+        De esta catedral surgieron compositores como Leonin y Perotín.
+      asset: 
+        media: 'https://www.civitatis.com/f/francia/paris/guia/catedral-notre-dame-m.jpg'
         #
-        ## Siglo X - XII
-        ### Trovadores 
-        #
-        #Los trovadores fueron músicos-poetas del sur de lo que hoy es Francia, y produjeron uno de los repertorios monódicos más importantes de la Edad Media. Sus canciones son de temas muy diversos, de los cuales la cansó —canción de amor imposible a la dama inalcanzable— es quizá la más famosa.
-        #
-        #Sus poemas están escritos en occitano ( el lenguaje del sur de Francia), al norte de Francia estaban los troveros ( trouveres )que escribían sus versos en francés, los troveros de la península ibérica escribian sus cantigas en gallego-portugués, tambien se les conoce como los minnesinger en los países alemanes y los trovatori en la península italiana.
-        #
-        ## Genero : Canso
-        #Se llama cansó al poema que trata de amor cortés, uno de los géneros literarios más utilizados por los trovadores; sin embargo, no todos los poemas son de amor cortés. El alba es la separación de dos amantes al salir el sol, el sirventés es una sátira moral o política, la tensó es un debate entre dos o más personajes y en la pastorela un caballero intenta seducir a una pastora. 
-        #
-        ## Genero : Cantigas
-        #La cantiga es un poema amoroso siempre en voz de mujer que añora el regreso de su amado, son piezas monódicas y estróficas con un pequeño estribillo. El texto está en gallego-portugués con acomodo más bien neumático y no hay indicaciones rítmicas. También estas las cantigas a santa Maria, exclusivamente tratan sobre un amor cortes hacia María la virgen. 
-        #
-        ## Fecha
-        #La cansó Can vei la lauzeta mover, de uno de los más famosos trovadores, Bernart de Ventadorn (cerca de 1135), el canso trata sobre una amante que lamenta no ser correspondido en su amor por su dama, aunque se da cuenta de que la dama siempre estuvo fuera de su alcance
-        #
-        #
-        ### Genero: Organum Florido de Aquitania
-        #Nace en el siglo XII, algunos ejemplos se conservan en la catedral de santiago de Compostela y en tres manuscritos del sur de Francia (Región conocida como Aquitania) 
-        #Voz inferior - se queda tenida y da sostén a la voz superior
-        #Aquí nació el término tenor, del latín "tenere", sostener la palabra tenor" se usó para nombrar a la voz más grave en una composición hasta el siglo XV.
-        #
-        ### Escuela de Notre Dame y variaciones al Organum original
-        #
-        ### Polifonía de la Escuela de Notre Dame
-        #En el siglo XII, París (en el norte de Francia) se convirtió en un centro musical de importancia siendo esta incubadora de varias innovaciones musicales. Estas innovaciones se centraron en los compositores de la nueva Catedral de Notre Dame. El siglo XII es el momento de las primeras catedrales góticas, posibles por descubrimientos en ingeniería que harían factible la construcción de grandes edificios.  
-        #
-        #De esta catedral surgieron compositores Leonin y Perotín
-        #
-        ### Fecha
-        #
-        #Navidad de 1198. Viderunt Omnes primera pieza escrita a 4 voces cuyo compositor conocemos. Con la composición de esta pieza da comienzo el periodo conocido como Ars Antiqua.
-        ## Era : Ars antiqua
-        #
+    - startDate : '1198'
+      headline: 'Viderunt Omnes'
+      tag: 'Acontecimiento'
+      text: |
+        Navidad de 1198. Viderunt Omnes primera pieza escrita a 4 voces cuyo compositor conocemos( Perotín ). Con la composición de esta pieza da comienzo el periodo conocido <strong>como Ars Antiqua.</strong>
+        <br/>
+        En esta interpretación del Viderunt Omnes de Perotin podemos escuchar que secciones de 
+        polifonía alternan con secciones monódicas; dicha práctica se conoce como: <strong>ALTERNATIM.</strong>
+      asset:
+        media: "https://www.youtube.com/watch?v=BdhKvj7BLXI"
+
+    - startDate : '1170'
+      tag: Genero Vocal
+      headline: Escuela de Notre Dame
+      text: |
+        En el siglo XII, París (en el norte de Francia) se convirtió en un centro musical de importancia siendo esta 
+        incubadora de varias innovaciones musicales. Estas innovaciones se centraron en los 
+        compositores de la nueva Catedral de Notre Dame. 
+        <br/>
+        El siglo XII es el momento de las primeras catedrales góticas, posibles por descubrimientos en ingeniería que harían factible la construcción de grandes edificios.  
+        <br/>
+        De esta catedral surgieron compositores como Leonin y Perotín.
+      asset: 
+        media: 'https://www.civitatis.com/f/francia/paris/guia/catedral-notre-dame-m.jpg'
+    - startDate : '1200'
+      headline : Motete
+      tag: 'Genero Vocal'
+      text: |
+        El motete es una de las formas musicales más importantes de la música polifónica desde el S.XIII hasta el XVIII, 
+        aunque posteriormente se siguieran componiendo pero en menor medida y de una forma independiente. 
+        En los siglos XIII y XIV, el motete constaba de una serie de variaciones polifónicas sobre un Canto dado o Cantus Firmus. 
+        Este cantus firmus era una melodía ya existente, de origen generalmente litúrgico, y sobre el que se basaba la composición polifónica. 
+        Sobre este cantus firmus, de línea melódica amplia y severa, se contraponía una nueva melodía con otro texto, más amplia y variada, 
+        que se conocía con el nombre de tropo. Por tanto, se denominaba motete a la voz que hacía un contrapunto sobre el rígido esquema del cantus firmus, 
+        a modo de discanto o diafonía. El cantus firmus poseía un texto corto, 
+        mientras el discanto contenía un texto con más palabras. El texto utilizado estaba escrito en latín sobre un salmo o pasaje de las sagradas escrituras.
+      asset:
+        media: 'https://levantemusicaycultura.files.wordpress.com/2015/04/motete-guerrero.jpg'
+
+    - startDate: '1250'
+      headline: Motete Franconiano
+      tag: 'Genero Vocal'
+      text: |
+        Franco de Colonia (a mediados del siglo XIII) era un teórico de la música alemana y posiblemente un compositor. 
+        Fue uno de los teóricos más influyentes de la Edad Media y fue el primero en 
+        proponer una idea que transformara permanentemente la notación musical: 
+        que la duración de cualquier nota se determinara por su aparición en la página y no por el contexto solo. El resultado fue notación franconiana.
+      asset:
+        media: 'https://www.youtube.com/watch?v=BoCy58W_6ps&ab_channel=Anonymous4-Topic'
+
+    - startDate: '1290'
+      headline: Motete Petroniano
+      tag: 'Genero Vocal'
+      text: |
+        Petrus de Cruce (Pierre de la Croix) fue activo como clérigo, compositor y teórico a finales del siglo XIII. 
+        Su principal contribución fue al sistema de notación. El Petroniano Motet fue compuesto alrededor del 1300. 
+        Sus características incluyen la división adicional del triplum, el motetus y el triplum y se mueve hacia la expresión ligera y elegante, además de mostrar una carencia de la preocupación para los principios del acentuatio textual apropiado
+      asset:
+        media: 'https://www.youtube.com/watch?v=vJbgL80-Hq0'
+    - startDate: '1300'
+      headline: 'Estampie'
+      tag: 'Genero instrumental'
+      text: |
+        La danza medieval y forma musical que se llama estampie en francés, estampida en occitano e 
+        istampitta (también istanpitta o stampita) en italiano era un popular estilo instrumental de de los siglos XIII y XIV.
+        <br/>
+        La etimología de estampie es objeto de controversias; un nombre alternativo de esta danza es stantipes, 
+        que sugiere que un pie permanece inmóvil durante el baile, 
+        pero la etimología más aceptada hace referencia a estamper, en el sentido de dar una patada en el suelo con los pies.
+        <br/>
+        La estampie consta de cuatro a siete secciones, llamadas puncta
+        , cada una de los cuales se repite, siguiendo el patrón: aa, bb, cc, etc..
+        <br/>
+        Diferentes finales (ouvert (abierta) y clos (cerrada)) corresponden tanto a la primera 
+        aparición de cada punctum como a la segunda, de modo que la estructura podría ser: a + x, a + y, b + w, b + z, etc.
+        <br/>
+        En ocasiones se utilizan las mismas dos terminaciones para todos los puncta, dando lugar a la estructura: a+x, a+y; b+x, b+y, c+x, c+y, etc.
+      asset:
+        media: 'https://www.youtube.com/watch?v=TqZUNDyfq1s'
+    - startDate : '1350'
+      headline: El motete isorrítmico
+      tag: 'Genero Vocal'
+      text: |
+        La isorritmia es una técnica que se utiliza sobre todo para dar estructura al tenor de un motete. 
+        En la isorritmia intervienen dos elementos musicales que se consideran independientes uno de otro: 
+        el color (la melodía, generalmente un fragmento de canto gregoriano) y la talea (un patrón rítmico).
+        <br/>
+        Estos dos elementos, color y talea, pueden interactuar de muchas maneras, de acuerdo con la decisión del compositor. 
+        Puede haber un color largo simplemente dividido por repeticiones de la talea; pero también puede suceder que el 
+        color y la talea no sean del mismo tamaño y sus principios y finales no coincidan sino que se alternen. 
+        Además de la relación entre color y talea, un recurso muy común es repetir la talea pero modificando proporcionalmente sus valores rítmicos. 
+        Por ejemplo, si el principio de la talea equivale a una nota entera seguida de una mitad, 
+        en una repetición podría aparecer con sus valores rítmicos divididos todos a la mitad, por lo que empezaría con una blanca seguida de una negra.
+      asset:
+        media: 'https://www.youtube.com/watch?v=hGW2HL35kqY'
+
+    - startDate: '1400'
+      headline: 'Inicio del renacimiento'
+      tag: 'Acontecimiento'
+      asset: 
+        media: 'https://enciclopediadehistoria.com/wp-content/uploads/2018/07/renacimiento.jpg'
+
+    - startDate: '1547'
+      headline: 'El Madrigal'
+      text: |
+        El género más importante del renacimiento, es una composición polifónica en donde la calidad del texto es súper importante.
+        <br/>
+        La estructura depende del texto que se esté cantando.
+        <br/>
+        "Ancor che col partire", madrigal del año 1547, escrito por Cipriano de Rore sobre unos versos de Alfonso d'Avalos, marqués de Pescara.
+        <pre>
+        Aunque al partir yo me siento morir
+        partir querría cada hora, cada instante:
+        tanto es el placer que siento de la vida que adquiero en el retorno: 
+        y así, miles de veces al día partir de vos querría:
+        tan dulces son los retornos míos.
+        </pre>
+      tag: 'Genero Vocal'
+      asset:
+        media: 'https://www.youtube.com/watch?v=qdypcIKChWM'
+    - startDate: '1536'
+      headline: 'El Maestro'
+      tag: 'Acontecimiento'
+      text: |
+        Se publica <em>El maestro</em>. Es un tratado escrito por Luis de Milán, para aprender a tocar la guitarra.
+      asset:
+        media: 'https://upload.wikimedia.org/wikipedia/commons/9/9c/Vihuelaplayer.jpg'
+
+    - startDate: '1570'
+      headline: 'La Chanson'
+      tag: 'Genero Vocal'
+      text: |
+        La chanson es una pieza musical polifónica de la Baja Edad Media y del Renacimiento. Las chansons antiguas tendieron a presentar una forma fija como balada, rondó o virelay, aunque posteriormente muchos compositores usaron la poesía popular en variedad de formas musicales.
+      asset:
+        media: 'https://www.youtube.com/watch?v=107gP2moTKM&ab_channel=pannonia77'
+    - startDate:  '1470'
+      headline: 'Frottola'
+      tag: 'Genero Vocal'
+      text: |
+        La frottola fue el tipo de música popular predominante en Italia como canción profana durante el siglo xv y principios del xvi. Fue el más importante y difundido predecesor del madrigal. La cumbre de composición de las frottolas fue el período entre 1470 y 1530, a cuyo término la forma musical fue reemplazada por el madrigal.
+      asset:
+        media: 'https://www.youtube.com/watch?v=SyubnX3s0VM&ab_channel=EmilioGarr%C3%A1n'
+
+    - startDate: '1540'
+      headline: 'El Lied'
+      tag: 'Genero Vocal'
+      text: |
+        Es una forma breve escrita para voz y piano sobre un texto poético ya existente. 
+        Su principal característica es la fusión entre el texto y la música. 
+        El lied era muy apreciado por el público porque en los conciertos creaba una atmósfera íntima propiciada por la belleza y expresividad de sus melodías.
+      asset:
+        media: 'https://www.youtube.com/watch?v=5a3Vcm4nP14&ab_channel=HofkapelleEnsemble-Topic'
+    - startDate: '1490'
+      headline: 'El Villancico'
+      text: |
+        El villancico es una forma musical y poética en castellano y portugués tradicional de España y Portugal, 
+        muy popular entre los siglos xv y xviii. Los villancicos eran originariamente canciones profanas con estribillo, de origen popular y a varias voces. 
+        Posteriormente comenzaron a cantarse en las iglesias y a asociarse específicamente con la Navidad
+      tag: 'Genero Vocal'
+      asset:
+        media: 'https://www.youtube.com/watch?v=9ARBile3yaI&ab_channel=Artlejandra'
+    - startDate: '1606' 
+      headline: 'Excomulgación'
+      tag: 'Acontecimiento'
+      text: |
+         Paulo V emitió un interdicto papal contra Venecia, excomulgando a toda la población.
+      asset:
+        media: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Leonardo_Donato.jpg/440px-Leonardo_Donato.jpg'
+        caption:  Dux de Venecia
+    - startDate: '1560' 
+      tag: 'Genero Vocal'
+      headline: 'Intermezzi'
+      text: |
+        Historias acompañadas de música. Surgieron en el teatro serio del Renacimiento, eran usados entre actos, de ahí su nombre.
+        Con el tiempo, crecieron en extensión y recursos. Normalmente se ejecutaban 6 intermedios durante una comedia (prólogo, cuatro entreactos y un epílogo)
+        Hoy día se les considera como antecesores de la ópera.
+      asset:
+        media: 'https://upload.wikimedia.org/wikipedia/commons/c/cc/La_Pellegrina_titula.jpg'
+
+    - startDate: '1589'
+      tag: 'Acontecimiento'
+      headline: 'La Pellegrina. Intermedii'
+      text: |
+        Intermedios compuestos para la celebración de las bodas del Gran Duque Fernando I de Médici y Cristina de Lorena en 1589, para realzar y enfatizar el nuevo estado de su reinado. Estos intermedios toman el nombre de la comedia a la que acompañaban, La peregrina (La Pellegrina en italiano) de Girolamo Bargagli, y con textos de G. B. Strozzi y Ottavio Rinuccini; música de Cristofano Malvezzi, Luca Marenzio, Jacopo Peri, Giulio Caccini, Antonio Anchilei, Emilio de' Cavalieri y Giovanni Bardi.
+      asset:
+        media: 'https://www.youtube.com/watch?v=xgZ0l1__Iqk&ab_channel=USCThorntonEarlyMusic'
+
+    - startDate: '1600'
+      tag: 'Genero Vocal'
+      headline : 'El nacimiento de la Ópera'
+      text: |
+        El término ópera (del italiano òpera, "obras musicales") designa un género de música teatral en el que una acción escénica se armoniza, se canta y tiene acompañamiento instrumental. Las representaciones suelen ofrecerse en teatros de ópera, acompañadas por una orquesta o una agrupación musical menor. Forma parte de la tradición de la música clásica europea y occidental.
+      asset:
+        media: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Giovanni_Paolo_Pannini_-_F%C3%AAte_musicale_-_1747.jpg/440px-Giovanni_Paolo_Pannini_-_F%C3%AAte_musicale_-_1747.jpg'
+    - startDate: '1597'
+      tag: 'Acontecimiento'
+      headline : 'Dafne'
+      text: |
+        Dafne. Producida en Florencia en 1598. Sólo sobreviven fragmentos demasiado pequeños para reconstruirla. Música de Jacopo Peri y libreto de Ottavio Rinuccini
+      asset:
+        media: 'https://assets.classicfm.com/2012/43/dafne-and-apollo-1351174433-view-0.jpg'
+
+    - startDate: '1600'
+      tag: 'Acontecimiento'
+      headline : 'Eurídice'
+      text: |
+        Eurídice. Música de Jacopo Peri y libreto de Rinuccini.
+      asset:
+        media: 'https://normalweb.es/wp-content/uploads/2022/10/el-mito-de-orfeo-y-euridice-resumen.jpg'
+    - startDate: '1607'
+      tag: 'Acontecimiento'
+      headline : ' Orfeo'
+      text: |
+        Estrenada en Mantua. Claudio Monteverdi.
+      asset:
+        media: 'https://www.youtube.com/watch?v=0mD16EVxNOM&ab_channel=Belarmo'
+
+    - startDate: '1600,02,02'
+      tag: 'Genero Vocal'
+      headline : 'Oratorio'
+      text: |
+        En febrero de 1600, aún antes de que la primera ópera en sobrevivir hasta nuestros días fuera representada, Emilio de Cavalieri estreno en Roma su Rappresentatione di
+        Anima et di Corpo (La representación del Alma y del Cuerpo). 
+        Hoy día no se considera a la Representación una ópera, pero habría de ser precursora de un género muy utilizado durante el barroco: <em>El oratorio.</em>
+        Los oratorios hacían uso de elementos usados por la ópera, su principal diferencia era que no se esperaba que fueran escenificados. 
+        Reciben su nombre del oratorio, lugar de la iglesia en que eran representados.
+        <br/>
+        El libreto de un oratorio puede estar escrito en:
+          <ol>
+            <li>Latín (oratorio latino)</li>
+            <li> Italiano (oratorio volgare o vernáculo): </li>
+        </ol>
+      asset:
+        media: 'https://www.youtube.com/watch?v=t2xm5T6y7k8&ab_channel=SP%27sscorevideos'
+    - startDate : '1637'
+      headline: Concertato
+      text: |
+        El estilo Concertato  viene de tener que contestar, ponerse de acuerdo para poder tocar juntos.
+        La interpretación se basa en la contestación entre dos orquestas.
+        La Coronación de Popea, es la primera ópera basada en hechos históricos, no mitológicos. 
+        Compuesta por Monteverdi y estrenada en Venecia, en 1642, 
+        despuês de que el teatro de San Cassiano, primer teatro público de ópera de la historia, abriera sus puertas en 1637.
+      tag: 'Genero instrumental'
+      asset:
+        media: 'https://www.youtube.com/watch?v=rzXEYAdPJ84&ab_channel=OedipusColoneus'
+
+    - startDate : '1650'
+      headline: Canzona
+      tag: 'Genero instrumental'
+      text: |
+        Piezas para uno o dos solistas y bajo continuo con muchas secciones en estilos contrastantes y diversos compases.
+        Las piezas tipo canzona habrían de evolucionar en lo que ahora conocemos como sonata.
+      asset:
+        media: 'https://www.youtube.com/watch?v=3G7vJXYlNbE&ab_channel=VoicesofMusic'
+        caption : 'Dario Castello: Sonata Prima'
+
+    - startDate : '1610'
+      headline: Ricercare
+      tag: 'Genero instrumental'
+      text: |
+        Piezas polifónicas que, con muchísima frecuencia, hacían uso del contrapunto imitativo. 
+        Escritas generalmente para instrumentos de teclado y que habrian de transformarse en la Fuga del siglo XVIII
+      asset:
+        media: 'https://www.youtube.com/watch?v=MX0p_GEhclY&ab_channel=DaniyyelBarrera'
+        caption : 'G. Frescobaldi - Recercar dopo il Credo'
+    - startDate: '1623'
+      headline: Variaciones-divisiones
+      tag: 'Genero instrumental'
+      text: |
+        A principios del Siglo XVII existian 3 maneras de hacer variaciones.
+        <ol>
+        <li>
+          1.  Una melodía que va pasando por todas las voces de una pieza. <a> https://www.youtube.com/watch?v=TwbHnqCsHZ8&ab_channel=MusicaJuventutis </a> </li> 
+        </li>
+        <li>
+          2.  Hacer divisiones sobre una voz <a> https://www.youtube.com/watch?v=78s-AJ2fKzk&ab_channel=MyYearsWithEarlyMusic</a>
+        </li>
+        <li>
+          3. Una secuencia rítmico armónica que se repite y sobre la cual se hacen variaciones. (En Inglaterra, a las secuencias rítmico armónicas se les llamaba Ground)
+        </li>
+        </ol.
+      asset:
+        media: 'https://www.youtube.com/watch?v=AbYSj-LrjEk&ab_channel=JordiSavall-Topic'
+        caption: 'Greensleeves to a Ground, variación de tercer tipo'
+    - startDate: '1617'
+      tag: 'Genero instrumental'
+      headline: Danzas / Suite
+      text: |
+        La música para danzar había existido siempre, pero durante el barroco florecieron como un importante género musical. 
+        Las danzas comenzaron a ordenarse en conjuntos que se llamaron Suite.
+        <br/>
+        Durante el Siglo XVII el orden más común de la Suite es:
+        <ol>
+          <li><strong>Pavana</strong> Danza binaria, lenta y muy majestuosa</li>
+          <li><strong>Gallarda</strong> Danza ternaria y rápida</li>
+          <li><strong>Corrente</strong> Tempo moderado, a 3, con muchas hemiolas.</li>
+          <li><strong>Allemanda</strong> Tiempo lento, en compás binario y que casi siempre comienza con anacrusa</li>
+          <li><strong>Tripla</strong> Versión a tres de la Allemanda.</li>
+        </ol>
+      asset:
+        media: 'https://www.youtube.com/watch?v=ADxunZfkvT0&ab_channel=RobertDescombes'
+    - startDate : '1630'
+      tag: 'Genero instrumental'
+      headline: Música en estilo Improvisatorio
+      text: |
+        Música para un solo instrumento, escrita de manera muy virtuosa. 
+        Esta música, aunque estaba escrita, parecería que se estaba improvisando. La dirección tonal y temática no es clara.
+        Durante la época, los nombres dados a estas piezas son, entre otros:
+        Tocata, Preludio, Fantasía, Tiento.
+      asset:
+        media: 'https://www.youtube.com/watch?v=r0b8Ze4UfOI&ab_channel=huakinthoi'
   era : 
     - startDate : '301,01,01'
       endDate : "400,31,12"
@@ -327,7 +677,7 @@ timeline:
     - startDate : '401,01,01'
       endDate : "500,31,12"
       headline : "Siglo V"
-      text : "Disintos ritos liturgicos"
+      text : "Distintos ritos liturgicos"
       tag : "Siglo V"
 
     - startDate : '701,01,01'
@@ -347,3 +697,45 @@ timeline:
       headline : "Siglo X a siglo XI"
       text : "Trovadores y la escuela de Notre Dame"
       tag : "Siglo X a siglo XI"
+
+    - startDate: '1170'
+      endDate: '1310'
+      headline: "Ars Antiqua"
+      text: ''
+      tag: 'Ars Antiqua'
+
+    - startDate: '1322'
+      endDate: '1380'
+      headline: "Ars Nova"
+      text: ''
+      tag: 'Ars Nova'
+
+    - startDate: '1380'
+      endDate: '1410'
+      headline: "Ars Subtilior"
+      text: ''
+      tag: 'Ars Subtilior'
+
+    - startDate : '1201,01,01'
+      endDate : "1300,31,12"
+      headline : "Siglo IX"
+      text : "Siglo XIII"
+      tag : "Siglo XIII"
+    
+    - startDate : '1301,01,01'
+      endDate : "1400,31,12"
+      headline : "Siglo XIV"
+      text : "Siglo XIV"
+      tag : "Siglo XIV"
+
+    - startDate : '1401,01,01'
+      endDate : "1600,31,12"
+      headline : "Renacimiento"
+      text : "Renacimiento"
+      tag : "Renacimiento"
+
+    - startDate : '1601,01,01'
+      endDate : "1700,31,12"
+      headline : "Barroco"
+      text : "Barroco"
+      tag : "Barroco"
